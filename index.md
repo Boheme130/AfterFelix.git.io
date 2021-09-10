@@ -1,37 +1,117 @@
-## Welcome to GitHub Pages
+## After Felix
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/AfterFelix.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+作品：After Felix <br>
+作者：Lily Morton <br>
+评分：???? <br>
+*有这样一本书，它让我看完更加喜欢另一本书的人物却对这本书的人物???。另一本书就是Risk Taker, 而这本书的剧情是这样的： <br>
 
-```markdown
-Syntax highlighted code block
+你17岁投身战地记者行业，作为学徒时结识了同为17岁的Ivo <br>
+你第一次见面，就被他波浪的金发，分明的面庞，性感的法国口音迷倒 <br>
+你们两人家门不幸，孤苦无依，但在对方身上找到了依靠 <br>
+你们同为学徒，在中东的战火中作为记者艰难成长 <br>
+你们出生入死，在叙利亚被绑架做人质 <br>
+你们在阴冷的牢房里几乎死去，在寒冷的夜晚依偎取暖 <br>
+你们得救了，但却为了内心对职业的热爱坚守中东 <br>
+你是最好的写手，他是无二的摄像师 <br>
+你们是天合之作，成了世界出名的战地记者 <br>
+你爱上了他，在中东傍晚的沙风中，你们接吻了 <br>
+你们一起游历世界，把性爱的种子洒遍了各地 <br>
+在遥远东方的上海旅社里 <br>
+在香港昏暗的街灯下 <br>
+在威尼斯的水上餐厅窗口 <br>
+在伦敦乡间的村舍里 <br>
+十多年来，他是你心里的唯一 <br>
 
-# Header 1
-## Header 2
-### Header 3
+ <br> <br>
+ 
+你们年过而立，在中东的战火中浑身是伤 <br>
+在又一次枪伤后，你们回到英国疗养 <br>
+你回到了乡间的村舍，他回到了伦敦继兄的家里 <br>
+他爱上了他的红发继兄，那才是他从小的归宿 <br>
+他放弃回到中东，放弃了记者行业，为了他的爱人留在了伦敦 <br>
 
-- Bulleted
-- List
+ <br> <br>
 
-1. Numbered
-2. List
+你孤独一人住在乡下，他和继兄幸福地生活在了一起 <br>
+你在半夜噩梦中惊醒，中东的战火经历缠绕此生 <br>
+你又梦到你和他被关在监狱里命悬一线 <br>
+他在一个周末为他的爱人安排了浪漫乡野之旅 <br>
+他们在开车时XX，他的车在荒郊野岭因此撞上了树 <br>
+他一个电话打来求助，你义无反顾地把他和他的男友接到了你的家里 <br>
+你心如刀割，问他还记不记得香港的旅馆，问他愿不愿意再回中东 <br>
+他拒绝了，一手搂着他继兄的腰 <br>
+你看着眼前幸福的他，笑着祝他幸福永远 <br>
+三年后他求婚了，问你愿不愿意做他的首席伴郎 <br>
+你毫不犹豫答应了 <br>
 
-**Bold** and _Italic_ and `Code` text
+ <br> <br>
 
-[Link](url) and ![Image](src)
-```
+这时的你已经把战地记者的经历写成了书，成了知名的作家 <br>
+你以为你已经放下你的白月光，把自己堕落在一个个炮友中 <br>
+你走进书店，挑了个对你的书出言不逊的男孩 <br>
+你们在宾馆里做爱 <br>
+他吵吵嚷嚷，言语尖酸 <br>
+他临走前顺走了你的拖鞋和浴袍 <br>
+但你耐不住他高超的技巧再次拨通了这个新男孩的电话 <br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ <br> <br>
 
-### Jekyll Themes
+你们从一开始就谈好不谈恋爱 <br>
+你们性格迥异，爱好不同 <br>
+他喜欢雷帝肛肛，在浴室里唱”Romaro妈妈 嘎嘎呜啦啦” <br>
+你一听到那些歌词就想戳蓝自己的眼睛 <br>
+他每次做完爱，都会顺走你房间里的每样东西 <br>
+但他越界了，他爱上了你 <br>
+你在他的爱意下也慢慢对他有了感情 <br>
+但在他的无声的坚持下，你无奈带着他去了Ivo的婚礼 <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/AfterFelix.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ <br> <br>
 
-### Support or Contact
+你真诚地希望Ivo幸福 <br>
+当婚礼前夕出现了意外，你义无反顾帮助新郎解决了问题 <br>
+但你的新男友吃醋了，在房间里生闷气 <br>
+在婚礼的当晚，你看着白月光和他的红发丈夫喝得酩酊大醉 <br>
+你回到房间，新男友发现你和Ivo交往过，一气之下分了手 <br>
+你解释你对Ivo已经放下了爱情，但绝不会放下两人的友情 <br>
+他不听夺门而出，一走就是两年半 <br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <br> <br>
+
+你一辈子只谈过两场恋爱，一场和Ivo, 下一场在Ivo的婚礼中就这样毁灭了 <br>
+两年半里，你试图追回新男友Felix <br>
+你无数次祈求他的原谅，但他每次都执着于你的前男友Ivo <br>
+他离开你后交了无数个男朋友，对你视而不见 <br>
+你彻底堕落酒精，差点死在乡间的村舍里 <br>
+最终你痛下决心决定追回他，凭借毅力戒掉了酒精 <br>
+你这时已经是一个出名的小说家，手是你的生命 <br>
+你让他用车撞断你的手臂，只为了能和他独处一晚，但他仍然不为所动 <br>
+你被逼无奈，说你是作家不能没有手，求他做你的临时助理 <br>
+
+ <br> <br>
+
+你在恢复期间，想方设法挽回他，但他每次都拒绝 <br>
+他肆意挥霍你的钱 <br>
+他用你的信用卡住最好的总统套房，却把你扔进经济间 <br>
+你的手断了在自助餐厅艰难用餐，他却在豪华浴室里享受泡澡 <br>
+你想起他说过喜欢旅游却没钱 <br>
+于是你借着去意大利开会，为他安排了威尼斯惊喜游 <br>
+在水城威尼斯，他说喜欢会说外语的男生，你在晚风中用法语倾诉你的爱 <br>
+但他听不懂，嬉笑着离开了 <br>
+你拉着他在房间里随着老式留声机共舞，你用英语表白，他又拒绝了 <br>
+你带着他游览威尼斯，告诉他这座城市的每一个细节 <br>
+他终于暂时放下了戒备，吻了你，和你回房间做了爱 <br>
+第二天醒来他又反悔了，仍然介意你的前男友 <br>
+你放下了开会陪他来到一家餐厅午餐 <br>
+这时Ivo和他的丈夫突然出现了，他们知道你有签售会专门来看你 <br>
+你无比尴尬，但你需要出去接一个电话 <br>
+趁你出去的时候，你的白月光告诉你的现男友： <br>
+你的白月光从未爱上过你 <br>
+你对你的白月光的情感也不是爱而是忠诚 <br>
+你的现男友终于能放下Ivo接受你了 <br>
+就这样在白月光的劝导下，你和你的现男友终于在了一起 :) <br>
